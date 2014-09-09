@@ -20,4 +20,4 @@ all: ../bin/Matrix
 	g++ -c ../src/shader.cpp
 
 clean:
-	rm -rf ../build/*o hello
+	rm -rf *o ../bin/Matrix
