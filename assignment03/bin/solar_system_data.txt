@@ -1,0 +1,82 @@
+# Each planet is listed with their satellites.
+# The planets information is listed by: planet name, orbit speed (days),
+# The satellites information is in the format: satellite name,  
+
+
+Mercury			87.97      	7.0       	4878            0.6           58.6500         7
+
+Venus			224.70      3.4       	12100           0.82          243.0000        177
+
+Earth 			365.26      0.0        	12756          	1.00          0.9971          23
+Moon			384000      27.322  	3476
+
+Mars			686.98      1.8         6794            0.11          1.0260          25
+Phobos			9380		0.319		22.2
+Deimos			23460		1.262		12.6
+
+Jupiter 		4328.90     1.3         142800        317.89      0.4101             3
+Metis			127960		0.295		44
+Adrastea		128980		0.298		16
+Amalthea		181300		0.498		168
+Thebe			221900		0.675		98
+Io				421600		1.769		3652
+Europa			670900		3.551		3138
+Ganymede		1070000		7.155		5262
+Callisto		1880000		16.689		4800
+Leda			11094000	238.7 		10
+Himalia			11480000	250.6		180
+Lysithia		11720000	259.2 		20
+Elara			11737000	259.7 		80
+Ananke			21200000	631			20
+Carme			22600000	692			30
+Pasiphae		23500000	735			40
+Sinope			23700000	758			30
+
+Saturn       	10752.90	2.5        	120000        95.17        0.4264             27
+Atlas			137670		0.602		30
+Prometheus		139350		0.613		86
+Pandora			141700		0.629		81
+Janus			151470		0.695		179
+Epimetheus		151420		0.694 		113
+Mimus			185540		0.942		392
+Enceladus		238040		1.370		500
+Tethys			294670		1.888		1060
+Telesto			294670		1.888		25
+Calypso			294670		1.888		21
+Dione			377420		2.737		1120
+Helene			377420		2.737		36
+Rhea			527040		4.518		1529
+Titan			1221860		15.495		5151
+Hyperion		1481100		21.277		266
+Iapetus			3561300		79.331		1460
+Pheobe			12954000	550.4 		220
+
+Uranus 			30663.65 	0.8        	52400          14.56        0.9167             98
+Cordelia		49800		0.335		15
+Ophelia			53800		0.376 		20
+Bianca			59100		0.433 		50
+Cressida		61750		0.463 		70
+Desdemona		62700		0.475 		50
+Juliet			64350		0.493 		70
+Portia			66090		0.513 		90
+Rosalind		69920		0.558 		50
+Belinda			75300		0.622 		50
+Puck			86010		0.762  		170
+Miranda			129400		1.414 		480
+Ariel			191000		2.520 		1170
+Umbriel			266300		4.144 		1190
+Titania			435900		8.706 		1560
+Oberon			583500		13.463 		1550
+
+Neptune			60148.35	1.8        	48400          17.24        0.7917             30
+Naiad			48200		0.30 		50
+Thalassa		50000		0.31 		90
+Despina			52500		0.33 		140
+Galatea			62000		0.43 		160
+Larissa			73600		0.55 		200
+Proteus			117600		1.12 		420
+Triton			354800		5.877 		3500
+Nereid			5510000		360.21 		400	
+
+Pluto 			90410.50	17.2      	2445             0.002       6.3900             118
+Charon			19640		6.387 		1172
