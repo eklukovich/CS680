@@ -1,6 +1,6 @@
 # Each planet is listed with their satellites.
-# The planets information is listed by: planet name, orbit speed (days),
-# The satellites information is in the format: satellite name,  
+# The planets information is listed by: planet name, orbit speed (days), orbit angle (degrees), diameter (km), mass (ration compared to Earth), rotation speed (days), rotation angle (degrees)
+# The satellites information is in the format: satellite name, distance from planet (km), orbit speed (days), diameter (km) 
 
 
 Mercury			87.97      	7.0       	4878            0.6           58.6500         7
