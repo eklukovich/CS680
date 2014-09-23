@@ -3,7 +3,7 @@ Eric Klukovich
 CS 680
 
 
-This program takes in a model of a game board (board.obj) that was created in Blender and displays it on the screen. The .obj file is opened and parsed to correctly load all the faces and vertices. A mtl file is also parsed to add the appropriate color to the model. If a mtl file is not given, the program defaults the model to red.
+This program takes in a model of a game board (board.obj) that was created in Blender and displays it on the screen. The .obj file is opened and parsed to correctly load all the faces and vertices. A mtl file is also parsed to add the appropriate color to the model. If a mtl file is not given, the program defaults the model to red. The Blender file for the board model is located in the bin folder.
 
 
 To Compile the Program:
