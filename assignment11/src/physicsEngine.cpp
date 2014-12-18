@@ -39,7 +39,7 @@ bool Physics::setupWorld()
         int ballCollidesWith =  COL_TABLE | COL_PLANE | COL_GOAL | COL_BALL;
         int tableCollidesWith = COL_BALL;
         int planeCollidesWith = COL_TABLE | COL_BALL;
-        int goalCollidesWith = COL_TABLE | COL_BALL;
+        int goalCollidesWith = COL_PLANE | COL_TABLE | COL_BALL;
 
         tableObject.xAxisRotation = 0.0f;
         tableObject.zAxisRotation = 0.0f;
@@ -62,7 +62,7 @@ bool Physics::setupWorld()
         objects.push_back(planeObject);
 
         // plane to detect a win
-        goalObject.initializeBoxObject(btVector3(0.5f, 0.5f, 0.5f), btVector3(goalPos.x, goalPos.y, goalPos.z), btVector3(1.0f, 1.0f, 1.0f));
+        goalObject.initializeBoxObject(btVector3(1.5f, 1.5f, 1.5f), btVector3(goalPos.x, goalPos.y, goalPos.z), btVector3(1.0f, 1.0f, 1.0f));
         dynamicsWorld->addRigidBody(goalObject.rigidBody, COL_GOAL, goalCollidesWith);
         objects.push_back(goalObject);
 

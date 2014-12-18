@@ -1,7 +1,6 @@
 Assignment 08 - Air Hockey
 Eric Klukovich (CS680), Christine Johnson (CS680), Thomas Rushton (CS480)
 
-Christine Johnson turned in the project.
 
 To Compile the Program:
 ----------------------
